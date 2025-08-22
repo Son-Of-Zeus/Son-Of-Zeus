@@ -1,5 +1,4 @@
-Hey there, I'm Pranav, Currently pursuing my undergraduate degree in Computer Science.
-
+Hey there, I'm Pranav, Currently pursuing my undergraduate degree in Computer Science. I'm a passionate problem solver who loves to solve real world problems by developing innovative solutions. Want to know more?
 
 **My Socials**
 
