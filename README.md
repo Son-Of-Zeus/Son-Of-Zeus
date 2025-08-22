@@ -1,4 +1,11 @@
-<a href="URL_REDIREC" target="blank"><img align="center" src="https://images.pexels.com/photos/5238670/pexels-photo-5238670.jpeg" height="100" /></a>
+Hey there, I'm Pranav, Currently pursuing my undergraduate degree in Computer Science.
+
+
+**My Socials**
+
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Son-Of-Zeus)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Son-Of-Zeus/Son-Of-Zeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
