@@ -9,4 +9,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=son-of-zeus&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=son-of-zeus&label=Profile%20views&color=0e75b6&style=flat" alt="son-of-zeus" /> </p>
 
+[![My Holopin badges:](https://holopin.me/sonofzeus)](https://holopin.io/@sonofzeus)
 ---
